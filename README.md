@@ -18,3 +18,5 @@ Explore the Dashboard: Interact with filters and visuals to gain insights.
 Adjust for Your Data: Update data sources if using a different dataset.
 Screenshots
 Include screenshots of the dashboard visuals here.
+# Snapshot of report
+![Image Alt](https://github.com/aryanrana12/powerbiproject/blob/cf3fbc8342ccad278c4d833cf176ed471b46d245/Screenshot%202025-01-26%20023856.png)
